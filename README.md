@@ -11,10 +11,11 @@ I’m currently...
 
 - 🔭 Working on projects with NodeJS/Mongo, Java/Spring
 - 🌱 Learning Go (When i have some time),  Improving my skills solving algorithms on HackerRank
-- 📕 I'm currently reading (Stopped {/*Learning React.... */})
+- 📕 I'm currently reading 
     - <a href="https://www.amazon.com/Go-Action-William-Kennedy/dp/1617291781/ref=sr_1_2?dchild=1&keywords=go+in+action&qid=1594314977&sr=8-2">GO IN ACTION</a>
     - <a href="https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/ref=sr_1_2?crid=28U8UC87R79JL&dchild=1&keywords=algorithms+3rd+edition&qid=1594315066&sprefix=algorithms+3%2Caps%2C209&sr=8-2">Introduction to Algorithms, 3rd Edition</a>
-
+- 💻 I'm currently learning 
+    - React on (https://scrimba.com/learn/learnreact) [Great Course From Scratch]
 
 :bird: <a href="https://twitter.com/jluipfullstack">Chat with me on Twitter</a>
 :e-mail: <a href="mailto:jlrp39@gmail.com">Send an e-mail</a>
